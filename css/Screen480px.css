@@ -1,0 +1,32 @@
+.wrapContentIntroducce {
+    display: flex;
+    flex-direction: column;
+}
+
+.contentIntroLeft {
+    float: none;
+    width: auto;
+    margin-bottom: 20px;
+}
+
+.contentIntroRight {
+    float: none;
+    width: auto;
+}
+
+
+/* handling font-size them */
+
+.HeliosLuxuRy,
+.PerfectEscap,
+.OurSpecial,
+.titleHappyClient,
+.subTitle,
+.titlevideo {
+    font-size: 35px;
+}
+
+.watchVideo,
+.clickVideoText {
+    display: none!important;
+}

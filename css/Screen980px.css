@@ -1,0 +1,54 @@
+.topbar-content {
+    display: none;
+}
+
+.navTopContain {
+    display: none;
+}
+
+.wrapFlexBoxBlog {
+    flex-direction: column;
+}
+
+.ItemBlog {
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.overHidden {
+    height: 60%;
+}
+
+.ContentAvtTourBlog {
+    height: 40%;
+}
+
+
+/*footer */
+
+.FleWrapFooter {
+    flex-direction: column;
+}
+
+.carouselFooter {
+    margin-top: 30px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.textFooterAglin {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.navFooter ul {
+    padding-left: 0px;
+}
+
+.navFooter ul li:nth-child(5) {
+    margin: 0px;
+}
+
+.wrapSubFooter {
+    padding-top: 30px;
+}

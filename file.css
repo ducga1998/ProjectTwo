@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,300);
+.container {
+    width: 700px;
+    height: 200px;
+    margin: 40px auto;
+}
+
+.block-media {
+    width: 350px;
+    height: 200px;
+    display: inline-block;
+    float: left;
+}
+
+.block-text {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 350px;
+    height: 200px;
+    background-color: #2c3e50;
+    display: inline-block;
+    float: left;
+}
+
+.carousel-images>.slick-list {
+    padding: 0 !important;
+}
+
+.carousel-images>.slick-list>.slick-slide {
+    width: 350px !important;
+}
+
+.carousel-images>.slick-prev {
+    left: 10px;
+}
+
+.carousel-images>.slick-next {
+    right: 10px;
+}
+
+.carousel-images>.slick-dots {
+    bottom: -10px;
+}
+
+.carousel-images>.slick-dots>li button:before {
+    font-size: 12px;
+}
+
+.carousel-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    padding: 20px;
+}
+
+.carousel-text .title {
+    color: #bdc3c7;
+    font-size: 1.05em;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.carousel-text .headline {
+    color: #fff;
+    text-align: justify;
+}

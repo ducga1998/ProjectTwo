@@ -1,0 +1,47 @@
+.detailDiscover {
+    padding: 16px;
+    padding-top: 83px;
+}
+
+.wrapNav {
+    width: 100%;
+}
+
+.solganServies,
+.sloganClient,
+.subSolgan {
+    font-size: 17px;
+}
+
+.HeliosLuxuRy,
+.PerfectEscap,
+.OurSpecial,
+.titleHappyClient,
+.subTitle,
+.titlevideo {
+    font-size: 20px;
+}
+
+.TitleAboutHelios {
+    margin-bottom: 40px;
+}
+
+.subTitle:before {
+    top: 60px;
+}
+
+.overHidden {
+    height: 40%;
+}
+
+.ContentAvtTourBlog {
+    height: 60%;
+}
+
+.priceDiscover {
+    font-size: 10px;
+}
+
+._24px {
+    font-size: 15px;
+}

@@ -1,0 +1,31 @@
+.info .content {
+    font-size: 67px;
+}
+
+
+/* detail code  responsive*/
+
+.wrapFlexBoxDiscover {
+    flex-direction: column;
+}
+
+.wrapFlexBoxDiscover {
+    height: auto;
+}
+
+.ImgDetail {
+    width: auto;
+    height: 500px;
+}
+
+.detailDiscover {
+    width: auto;
+}
+
+.ButtonBackwardsDiscover {
+    bottom: 0px;
+}
+
+.ButtonNextsDiscover {
+    top: 0px;
+}

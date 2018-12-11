@@ -1,0 +1,46 @@
+.avtIntroduce img {
+    width: 105px;
+}
+
+.carouselFooter {
+    width: 300px;
+}
+
+
+/* code scenery */
+
+.TitleScenery {
+    font-size: 20px;
+}
+
+.subTitleScenery {
+    font-size: 14px;
+}
+
+.contentIntroLeft {
+    width: 40%;
+}
+
+.contentIntroRight {
+    width: 60%;
+}
+
+.solganServies {
+    width: auto;
+}
+
+.subSolgan {
+    width: auto;
+}
+
+.Solganblog {
+    width: auto;
+}
+
+.content-info {
+    display: none;
+}
+
+.sloganClient {
+    width: auto;
+}

@@ -1,0 +1,96 @@
+.twoArowCauroselServies {
+    display: none;
+}
+
+.IntroduceHelios {
+    padding-top: 60px;
+    margin-bottom: 60px;
+}
+
+.luxuryRoom {
+    padding-top: 60px;
+}
+
+#servicesHelios {
+    padding-top: 60px;
+}
+
+#clientSay .item {
+    padding-top: 60px;
+    padding-bottom: 60px
+}
+
+#blogEvent {
+    padding-top: 60px;
+}
+
+footer {
+    margin-top: 60px;
+}
+
+.luxuryRoom {
+    padding-bottom: 60px;
+}
+
+
+/*room Code*/
+
+.luxuryRoom {
+    width: auto;
+}
+
+.detailRoom {
+    width: auto;
+}
+
+.ContainerRoom {
+    flex-direction: column;
+}
+
+
+/*responsive id=discoverHelios*/
+
+.detailDiscover {
+    padding: 75px;
+}
+
+.SolganDiscover {
+    margin-bottom: 0px;
+    font-size: 16px;
+}
+
+.fascinating {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.ClassicsMenu {
+    margin-top: 20px;
+}
+
+.ContentDiscover {
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 33px;
+}
+
+.byAdmin {
+    position: relative;
+    bottom: 13px;
+}
+
+.ItemBlog {
+    height: 600px;
+}
+
+.TitleItemBlog {
+    font-size: 22px;
+}
+
+.overHidden {
+    height: 45%;
+}
+
+.ContentAvtTourBlog {
+    height: 55%;
+}
